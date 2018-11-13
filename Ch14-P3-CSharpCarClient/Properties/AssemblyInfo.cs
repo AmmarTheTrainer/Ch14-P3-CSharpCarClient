@@ -19,6 +19,8 @@ using System.Runtime.InteropServices;
 // COM, set the ComVisible attribute to true on that type.
 [assembly: ComVisible(false)]
 
+//[assembly asm = Assembly.Load("CarLibrary")]
+
 // The following GUID is for the ID of the typelib if this project is exposed to COM
 [assembly: Guid("2dccf5b2-e770-4b4e-9d5b-d78a82e69189")]
 
